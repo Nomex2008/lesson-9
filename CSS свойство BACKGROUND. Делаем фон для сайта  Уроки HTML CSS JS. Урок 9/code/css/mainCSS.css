@@ -1,0 +1,48 @@
+body {
+    padding: 30px;
+    background: url('../img/countryside-field-sunny-day-in-the-countryside_181624-24010.avif') 0 0/cover ;
+}
+
+.block {
+    background: url('../img/UA.webp');
+    background-repeat: round;
+
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #000;
+}
+
+.block2 {
+        /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff3019+0,0414cc+100 */
+    background: #ff3019; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ff3019 0%, #0414cc 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #ff3019 0%,#0414cc 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #ff3019 0%,#0414cc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#0414cc',GradientType=0 ); /* IE6-9 */
+
+    margin-top: 40px;
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #000;
+}
+
+.block3 {
+    background: url('../img/UA.webp') no-repeat;
+    
+    background-size: 300px 100px;
+    background-position: center;
+
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #000;
+    margin: 30px;
+}
+
+.block4{
+    background: url('../img/images.jfif') 10px 10px /200px 100px no-repeat,  url('../img/images.jfif') 0 0 /cover no-repeat;
+
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #000;
+    padding: 20px;
+}

@@ -1,0 +1,6 @@
+CSS свойство BACKGROUND. Делаем фон для сайта // Уроки HTML CSS JS. Урок №9
+https://www.youtube.com/watch?v=8sHgyURhAkM&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr&index=13
+Шпаргалка
+https://fls.guru/cssbackground.html
+Градіент
+https://www.colorzilla.com/gradient-editor/
